@@ -10,6 +10,6 @@ the final model training and fitting results:
 
 <img src="https://github.com/roeelq323/Text-Analysis/blob/main/results.png">
 
-the test results are in the 
+the test results are in the <b>classification_results.csv</b> file.
 
 
